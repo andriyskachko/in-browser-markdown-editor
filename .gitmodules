@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:andriyskachko/in-browser-markdown-editor-api.git
+[submodule "client"]
+	path = client
+	url = git@github.com:andriyskachko/in-browser-markdown-editor-client.git
