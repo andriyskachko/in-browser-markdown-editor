@@ -1,0 +1,16 @@
+{
+  "name": "in-browser-markdown-editor",
+  "description": "In-Browser Markdown Editor App",
+  "version": "1.0.0",
+  "author": "@andriyskachko",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriyskachko/in-browser-markdown-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andriyskachko/in-browser-markdown-editor/issues"
+  },
+  "homepage": "https://github.com/andriyskachko/in-browser-markdown-editor#readme"
+
+}
